@@ -1,2 +1,4 @@
 # fizzbuzz_rust
-Fizz Buzz in Rust. One function chain, no bindings
+Fizz Buzz in Rust. One function chain, no bindings.
+
+Written in a way so new conditions can be easily added.
